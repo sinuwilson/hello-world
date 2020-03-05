@@ -1,2 +1,5 @@
 # hello-world
-Studying phase 1
+Studying phase to pull 
+
+Hi,
+I am starting the new prj. 
